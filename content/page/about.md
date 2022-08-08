@@ -4,7 +4,7 @@ subtitle:
 title: About me
 ---
 
-I'm a **PhD researcher** at the **University of Edinburgh**, where work on the interpretability of advanced regression models known as Generalized Additive Models for Location, Scale and Shape (GAMLSS).
+I'm a **PhD researcher** at the **University of Edinburgh**, where I work on improving the interpretability of advanced regression models known as Generalized Additive Models for Location, Scale and Shape (GAMLSS).
 
 ### History
 
