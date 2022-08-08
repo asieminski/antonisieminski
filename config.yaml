@@ -26,8 +26,8 @@ Params:
   wordCount: no
 Author:
   email: a.m.sieminski@gmail.com
-  github: https://github.com/asieminski
-  linkedin: https://www.linkedin.com/in/antonisieminski/
+  github: asieminski
+  linkedin: antonisieminski
 menu:
   main:
     - name: Blog
