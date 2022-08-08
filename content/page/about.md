@@ -1,16 +1,26 @@
 ---
 comments: false
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 title: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a **PhD researcher** at the **University of Edinburgh**, where work on the interpretability of advanced regression models known as Generalized Additive Models for Location, Scale and Shape (GAMLSS).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### History
 
-What else do you need?
+2021-22, I worked as a **Data Scientist** and have learned that advanced regression methods usually delivered more business value to my clients than the more popular *machine learning* models would. 
 
-### my history
+2020-21, I completed an **MSc in Applied Statistics and Data Mining** at the **University of St Andrews**, and received the Royal Statistical Society Award for the highest GPA out of all statistical MSc students in 2021.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Statement of purpose
+
+I'm extremely passionate about advanced regression models, because they're much more widely applicable than most standard statistics curriculums allow their students to realise.
+
+If applied right, regression can be used to:
+
+- identify key drivers of a business outcome
+- give answers to 'what if...' scenarios
+- forecast the business outcome
+- identify anomalous observations
+
+This blog is about delivering these business outcomes, making your stakeholders happy, and giving you that big bonus at the end of the year.
